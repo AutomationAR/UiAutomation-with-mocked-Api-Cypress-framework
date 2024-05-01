@@ -1,0 +1,25 @@
+{
+    "roles": [
+        {
+            "roleId": "f155d8a8-7906-4866-9eac-3a346382ad36",
+            "roleName": "Airline Admin"
+        },
+        {
+            "roleId": "9fbd17cf-a209-40ca-84f9-3c037702e83a",
+            "roleName": "RevMan User"
+        }
+    ],
+    "messageSummary": {
+        "traceId": "0HMSO1EO6LTUM:00000001",
+        "messages": [
+            {
+                "title": "Roles found",
+                "text": "User types found.",
+                "code": "7034",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

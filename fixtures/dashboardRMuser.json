@@ -1,0 +1,27 @@
+{
+    "dashboardItems": [
+        {
+            "title": "Capacities",
+            "route": "/capacities",
+            "icon": "GroupsIcon"
+        },
+        {
+            "title": "User details",
+            "route": "/user/a05bdd30-4f0b-4a6a-6f46-08db6b1d09c7",
+            "icon": "UserIcon"
+        }
+    ],
+    "messageSummary": {
+        "traceId": "0HMSTCHBGS17I:0000000B",
+        "messages": [
+            {
+                "title": "Dashboard item found",
+                "text": "Dashboard item found.",
+                "code": "7025",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

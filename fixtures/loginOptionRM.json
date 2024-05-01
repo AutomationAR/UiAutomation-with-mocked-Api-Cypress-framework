@@ -1,0 +1,25 @@
+{
+    "loginOptions": [
+        {
+            "loginOptionId": "AZD",
+            "loginOptionName": "Azure AD"
+        },
+        {
+            "loginOptionId": "QAU",
+            "loginOptionName": "Qantas Groups Travel"
+        }
+    ],
+    "messageSummary": {
+        "traceId": "0HMSO1EO6LU4S:00000002",
+        "messages": [
+            {
+                "title": "Login option success",
+                "text": "Login options found successfully",
+                "code": "7047",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

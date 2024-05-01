@@ -1,0 +1,103 @@
+{
+    "customerResponses": [
+        {
+            "id": "393db46d-5728-4f4e-6f45-08db6b1d09c7",
+            "email": "araza..123@gmail.com",
+            "userName": "AA0000",
+            "name": "Ali Raza",
+            "role": "Airline Admin",
+            "isEnabled": true,
+            "externalUserId": "008afb19-81f6-460a-9f70-40413025cb7e"
+        },
+        {
+            "id": "a05bdd30-4f0b-4a6a-6f46-08db6b1d09c7",
+            "email": "ARAZA@..COM",
+            "userName": "US00000",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": true,
+            "externalUserId": "9031a6be-78bc-4aeb-9766-a5cc58affc7b"
+        },
+        {
+            "id": "7c379ff3-abbc-4f9c-6f4a-08db6b1d09c7",
+            "email": "araza..321@gmail.com",
+            "userName": "RM0000",
+            "name": "Ali Raaza",
+            "role": "RevMan User",
+            "isEnabled": false,
+            "externalUserId": "4e5deafe-6321-439f-a507-79c234295a3a"
+        },
+        {
+            "id": "32880f0f-d39c-4511-f17f-08db9403aa3f",
+            "email": "araza@callrom.com",
+            "userName": "QA0011",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "efcc9f8d-5729-479b-06ca-08db983f9b1b",
+            "email": "araza.ghaffar786@gmail.com",
+            "userName": "QA12345",
+            "name": "Ali Raza",
+            "role": "Airline Admin",
+            "isEnabled": false,
+            "externalUserId": ""
+        },
+        {
+            "id": "87f5c789-cff0-47e7-c8cf-08db9db67a58",
+            "email": "araza.gh786@gmail.com",
+            "userName": "AQ8888",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "8dc16d4e-9c1e-4fa7-c8d0-08db9db67a58",
+            "email": "araza..786@gmail.com",
+            "userName": "QW12345",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": false,
+            "externalUserId": ""
+        },
+        {
+            "id": "1f324031-fe0d-4f0f-c8d3-08db9db67a58",
+            "email": "araza.gh86@gmail.com",
+            "userName": "RF55555",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": false,
+            "externalUserId": ""
+        },
+        {
+            "id": "4aa21cb8-d4e9-4959-c8d4-08db9db67a58",
+            "email": "araza.g786@gmail.com",
+            "userName": "GF5555",
+            "name": "Ali Raza",
+            "role": ". Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        }
+    ],
+    "currentPage": 1,
+    "pageSize": 10,
+    "totalPages": 1,
+    "recordCount": 9,
+    "totalRecords": 9,
+    "messageSummary": {
+        "traceId": "0HMT004NBRMKK:00000001",
+        "messages": [
+            {
+                "title": "Users found",
+                "text": "Users found.",
+                "code": "7022",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

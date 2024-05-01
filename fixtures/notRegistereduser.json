@@ -1,0 +1,27 @@
+{
+    "userId": "",
+    "userName": "",
+    "isLockedOut": false,
+    "hasPasswordExpired": false,
+    "isEnabled": false,
+    "authServiceModel": {
+        "userId": "",
+        "userName": "",
+        "isLockedOut": false,
+        "hasPasswordExpired": false,
+        "isEnabled": false
+    },
+    "messageSummary": {
+        "traceId": "",
+        "messages": [
+            {
+                "title": "Auth Service User not found",
+                "text": "User is not registered in Qantas Group Travel",
+                "code": "7056",
+                "messageIndicatorType": "Error",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": false
+    }
+}

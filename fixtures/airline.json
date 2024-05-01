@@ -1,0 +1,24 @@
+{
+    "airlineId": "QF",
+    "airlineName": "Qantas Group Travel",
+    "contactName": null,
+    "contactEmail": "qantas@qantas.com",
+    "iata": "10052346",
+    "baseCurrency": "AUD",
+    "permittedUsers": 11,
+    "activeUsers": 11,
+    "airlineProducts": [],
+    "messageSummary": {
+        "traceId": "0HMSTCHBGS1A6:00000001",
+        "messages": [
+            {
+                "title": "Airline found",
+                "text": "Airline found",
+                "code": "6003",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

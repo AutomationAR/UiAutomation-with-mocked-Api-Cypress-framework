@@ -1,0 +1,15 @@
+{
+    "messageSummary": {
+        "traceId": "0HMSEEA8OVH66:00000005",
+        "messages": [
+            {
+                "title": "Airline updated",
+                "text": "Airline updated successfully",
+                "code": "6002",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

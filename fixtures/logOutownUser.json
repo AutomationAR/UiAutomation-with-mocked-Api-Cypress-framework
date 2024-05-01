@@ -1,0 +1,15 @@
+{
+    "messageSummary": {
+        "traceId": "0HMSO1EO6LU1C:00000004",
+        "messages": [
+            {
+                "title": "Users disable error",
+                "text": "The logged in user cannot be disabled.",
+                "code": "7040",
+                "messageIndicatorType": "Error",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": false
+    }
+}

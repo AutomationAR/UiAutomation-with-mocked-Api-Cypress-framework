@@ -1,0 +1,27 @@
+{
+    "dashboardItems": [
+      {
+        "title": "Capacities",
+        "route": "/capacities",
+        "icon": "GroupsIcon"
+      },
+      {
+        "title": "Users details",
+        "route": "/user/a05bdd30-4f0b-4a6a-6f46-08db6b1d09c7",
+        "icon": "UserIcon"
+      }
+    ],
+    "messageSummary": {
+      "traceId": "0HMS47RCEEGTU:00000002",
+      "messages": [
+        {
+          "title": "Dashboard item not found",
+          "text": "Dashboard item not found.",
+          "code": "7026",
+          "messageIndicatorType": "Error",
+          "messageDisplayType": "All"
+        }
+      ],
+      "isValid": false
+    }
+}

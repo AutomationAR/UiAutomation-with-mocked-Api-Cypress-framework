@@ -1,0 +1,32 @@
+{
+    "dashboardItems": [
+      {
+        "title": "Capacities",
+        "route": "/capacities",
+        "icon": "GroupsIcon"
+      },
+      {
+        "title": "Airline details",
+        "route": "/airline",
+        "icon": "AirLineIcon"
+      },
+      {
+        "title": "Users details",
+        "route": "/users",
+        "icon": "UserIcon"
+      }
+    ],
+    "messageSummary": {
+      "traceId": "0HMS47RCEEGTU:00000002",
+      "messages": [
+        {
+          "title": "Dashboard item not found",
+          "text": "Dashboard item not found.",
+          "code": "7026",
+          "messageIndicatorType": "Error",
+          "messageDisplayType": "All"
+        }
+      ],
+      "isValid": false
+    }
+}

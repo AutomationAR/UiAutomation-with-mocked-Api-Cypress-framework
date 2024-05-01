@@ -1,0 +1,112 @@
+{
+    "customerResponses": [
+        {
+            "id": "07b2c2f4-c4be-48be-cfb8-08db6dcf35f1",
+            "email": "araheem@..com",
+            "userName": "araheem",
+            "name": "Abdul Raheem",
+            "role": ". Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "c45ca084-488a-412a-eb24-08db715fad4d",
+            "email": "aakhtar@..com",
+            "userName": "aakhtar",
+            "name": "Adeel Akhtera",
+            "role": "Airline Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "393db46d-5728-4f4e-6f45-08db6b1d09c7",
+            "email": "araza..123@gmail.com",
+            "userName": "AA0000",
+            "name": "Ali Raza",
+            "role": "Airline Admin",
+            "isEnabled": true,
+            "externalUserId": "008afb19-81f6-460a-9f70-40413025cb7e"
+        },
+        {
+            "id": "a05bdd30-4f0b-4a6a-6f46-08db6b1d09c7",
+            "email": "ARAZA@..COM",
+            "userName": "US00000",
+            "name": "Ali Raza",
+            "role": "Airline Admin",
+            "isEnabled": true,
+            "externalUserId": "9031a6be-78bc-4aeb-9766-a5cc58affc7b"
+        },
+        {
+            "id": "7c379ff3-abbc-4f9c-6f4a-08db6b1d09c7",
+            "email": "araza..321@gmail.com",
+            "userName": "RM0000",
+            "name": "Ali Raaza",
+            "role": "RevMan User",
+            "isEnabled": false,
+            "externalUserId": "4e5deafe-6321-439f-a507-79c234295a3a"
+        },
+        {
+            "id": "32880f0f-d39c-4511-f17f-08db9403aa3f",
+            "email": "araza@callrom.com",
+            "userName": "QA0011",
+            "name": "Ali Raza",
+            "role": "RevMan User",
+            "isEnabled": false,
+            "externalUserId": ""
+        },
+        {
+            "id": "b01ea7ff-9419-4883-8064-203def8086eb",
+            "email": ".@..com",
+            "userName": ".",
+            "name": ". User",
+            "role": ". Admin",
+            "isEnabled": true,
+            "externalUserId": "13cc21de-a7d7-4871-b851-7b0ecbf828f8"
+        },
+        {
+            "id": "13d73c8f-71fe-4c18-eb2b-08db715fad4d",
+            "email": "cmcginnes@..com",
+            "userName": "cmcginnes@..com",
+            "name": "Charles Mcginnes",
+            "role": ". Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "9c486590-7c24-4509-c5a5-08db73e569a0",
+            "email": "mhaseeb@..com",
+            "userName": "mhaseeb",
+            "name": "Haseeb Hanif",
+            "role": "Airline Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        },
+        {
+            "id": "c6ac29dd-1484-4155-eb23-08db715fad4d",
+            "email": "iyounus@..com",
+            "userName": "iyounus",
+            "name": "iftikhar younus",
+            "role": ". Admin",
+            "isEnabled": true,
+            "externalUserId": ""
+        }
+    ],
+    "currentPage": 1,
+    "pageSize": 10,
+    "totalPages": 3,
+    "recordCount": 10,
+    "totalRecords": 22,
+    "messageSummary": {
+        "traceId": "0HMSIJ0ISQ1DT:00000003",
+        "messages": [
+            {
+                "title": "Users found",
+                "text": "Users found.",
+                "code": "7022",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

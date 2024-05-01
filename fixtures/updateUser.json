@@ -1,0 +1,15 @@
+{
+    "messageSummary": {
+        "traceId": "0HMSTJNL9GB01:00000009",
+        "messages": [
+            {
+                "title": "User updated successfully",
+                "text": "User updated successfully.",
+                "code": "7018",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

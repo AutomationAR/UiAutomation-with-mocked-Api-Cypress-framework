@@ -1,0 +1,50 @@
+{
+    "customer": {
+        "id": "a05bdd30-4f0b-4a6a-6f46-08db6b1d09c7",
+        "email": "ARAZA@..COM",
+        "userName": "US00000",
+        "firstName": "Ali",
+        "lastName": "Raza",
+        "employeeNumber": "12343",
+        "role": "9fbd17cf-a209-40ca-84f9-3c037702e83a",
+        "departmentId": "ITu",
+        "passwordExpire": false,
+        "isEnabled": true,
+        "passwordLocked": false,
+        "externalUserId": "9031a6be-78bc-4aeb-9766-a5cc58affc7b",
+        "functionalities": [
+            {
+                "productId": "GRPCPT",
+                "enabled": true,
+                "isReadOnly": true,
+                "subscribeToChanges": true,
+                "alternativeEmail": "araza@..com"
+            }
+        ],
+        "userLoginOptions": [
+            {
+                "loginOptionId": "QAU",
+                "loginOptionName": "Qantas Groups Travel",
+                "isSelected": true
+            },
+            {
+                "loginOptionId": "AZD",
+                "loginOptionName": "Azure AD",
+                "isSelected": false
+            }
+        ]
+    },
+    "messageSummary": {
+        "traceId": "0HMSO1EO6LU4S:00000003",
+        "messages": [
+            {
+                "title": "User found",
+                "text": "User found.",
+                "code": "7023",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

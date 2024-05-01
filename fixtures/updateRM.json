@@ -1,0 +1,15 @@
+{
+    "messageSummary": {
+        "traceId": "0HMSONIRD54ND:00000004",
+        "messages": [
+            {
+                "title": "Not Permissible",
+                "text": "Dont have right on resource.",
+                "code": "2002",
+                "messageIndicatorType": "Error",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": false
+    }
+}

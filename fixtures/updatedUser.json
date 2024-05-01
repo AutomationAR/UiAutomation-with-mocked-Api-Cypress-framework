@@ -1,0 +1,27 @@
+{
+    "userId": "008afb19-81f6-460a-9f70-40413025cb7e",
+    "userName": "AA0000",
+    "isLockedOut": false,
+    "hasPasswordExpired": false,
+    "isEnabled": true,
+    "authServiceModel": {
+        "userId": "008afb19-81f6-460a-9f70-40413025cb7e",
+        "userName": "AA0000",
+        "isLockedOut": false,
+        "hasPasswordExpired": false,
+        "isEnabled": true
+    },
+    "messageSummary": {
+        "traceId": "",
+        "messages": [
+            {
+                "title": "Auth Service User found",
+                "text": "",
+                "code": "7057",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

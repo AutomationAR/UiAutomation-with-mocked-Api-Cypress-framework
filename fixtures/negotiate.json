@@ -1,0 +1,22 @@
+{
+  "httpCode": 200,
+  "payload": {
+    "negotiateVersion": 1,
+    "connectionId": "RP3mmQm5gkcdK95ogdOc3w",
+    "connectionToken": "nEs7B8yqNyXQmbDWuuS7eg",
+    "availableTransports": [
+      {
+        "transport": "WebSockets",
+        "transferFormats": ["Text", "Binary"]
+      },
+      {
+        "transport": "ServerSentEvents",
+        "transferFormats": ["Text"]
+      },
+      {
+        "transport": "LongPolling",
+        "transferFormats": ["Text", "Binary"]
+      }
+    ]
+  }
+}
